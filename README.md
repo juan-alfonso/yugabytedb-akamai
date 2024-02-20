@@ -1,7 +1,7 @@
 # yugabytedb-akamai
 Deployment of YugabyteDB cluster in 3 Akamai Connected Cloud regions
 
-### Atention!!!
+### Attention!!!
 The deployment doesn't enable encryption in transit and authentication.\
 The instances are not protected with firewalls.\
 Don't use it for production.
